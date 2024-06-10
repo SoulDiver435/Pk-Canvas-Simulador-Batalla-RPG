@@ -1,4 +1,0 @@
--Se arregló el problema de la caja de mensajes.
--Funciona la ventaja del jugador.
--Funciona el STAB.
--Se añaden mensajes adicionales a la caja de mensajes cuando hay ventaja del jugador.
