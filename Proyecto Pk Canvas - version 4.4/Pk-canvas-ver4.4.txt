@@ -1,0 +1,2 @@
+-Funcionalidad de velocidad del Rival mayor que el Jugador.
+-Agregado el último ataque adicional y un tipo adicional.
