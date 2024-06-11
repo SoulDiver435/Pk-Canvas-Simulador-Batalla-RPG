@@ -1,0 +1,8 @@
+-Optimización del sistema de ventajas del juego.
+-Optimización del sistema de desventajas del juego.
+-Añadido un ataque adicional y un tipo adicional para el jugador y el rival.
+-Mensaje final de victoria añadido. La caja de mensajes se desactiva al final de todo.
+-Se añadió un movimiento de Boost, aunque sin una funcionalidad programada.
+-El jugador puede perder, si lo hace su barra de salud se vacía.
+-Hay un mensaje final, en caso de que el jugador pierda. Este mensaje también se bloquea.
+-Hay un display con el Nivel del Pokémon. Aunque aún los niveles no tienen una funcionalidad.
