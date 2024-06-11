@@ -1,0 +1,2 @@
+-Se muestra el ataque final del jugador y también, luego, el mensaje de que el oponente se debilitó.
+-Funcionalidad de ventaja y desventaja en ataques del rival.
