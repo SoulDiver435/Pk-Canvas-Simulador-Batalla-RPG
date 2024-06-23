@@ -1,0 +1,1 @@
+-Corregida la barra de Salud del jugador al llegar a 0 o menos.
