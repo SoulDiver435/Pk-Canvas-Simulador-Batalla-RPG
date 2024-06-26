@@ -1,0 +1,5 @@
+-Corregida la barra de Salud del jugador al llegar a 0 o menos.
+-Añadido Boost de Defensa para el Jugador.
+-Añadido Boost de Defensa para el Rival
+-Añadidos movimientos Reflejo y Maldición para el Jugador. Maldición solo buffea la defensa (NO ataque, NO (debuff)Velocidad)
+-Añadido movimiento Reflejo para el Rival.
