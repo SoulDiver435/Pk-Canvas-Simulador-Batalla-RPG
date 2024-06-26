@@ -1,0 +1,2 @@
+-Agregado boost de velocidad para el jugador.
+-Agregado el movimiento Agilidad al jugador, que le otorga dicho boost de velocidad.
