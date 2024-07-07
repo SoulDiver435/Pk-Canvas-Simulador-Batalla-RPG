@@ -1,0 +1,4 @@
+-Añadido el movimiento Malicioso al rival.
+-Añadido la funcionalidad de Anti - boost de Defensa hacia el Jugador.
+-Las barras de Salud cambian de tamaño con transiciones suaves de 0.5s.
+-Las barras de Salud cambian de color, según la cantidad de HP del Jugador y Rival respectivamente.
