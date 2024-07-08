@@ -1,0 +1,287 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+}
+
+#entornototal{
+   background-color: rgb(107, 168, 197);
+   width: 750px;
+   height: 530px;
+   margin: auto;
+   border: solid 4px white;
+   box-shadow: 8px 8px 15px #0c313f ;
+   border-radius: 10px;
+   align-content: center;
+   position: relative;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+/* ENTORNO RIVAL */
+#entornorival{
+    background-color: #0c313f;
+    width: 700px;
+    height: 250px;
+    margin: auto;
+    align-content: center;
+    border-radius: 20px 20px 0 0;
+}
+
+#pokerival{
+    background-color: none;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-left: 460px;    
+}
+
+#imgpkrival{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin-left: 12%;   
+}
+
+#nombrepkrivalcont{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+#nombrepkrival{
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#litsaludrival{
+    color: white;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 80px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#barraSaludRivalCont{
+    width: 200px;
+    height: 15px;
+    background-color: rgb(73, 73, 73);
+    position: absolute;
+    margin-top: 53px;
+    margin-left: 30px;
+}
+
+#barraSaludRival{
+    width: 200px;
+    height: 15px;
+    background-color: greenyellow;
+    transition: width 0.3s ease-in-out;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+/* ENTORNO JUGADOR */
+#entornojugador{
+    background-color: #a34f43;
+    width: 700px;
+    height: 250px;
+    margin: auto; 
+    align-content: center;
+    border-radius: 0 0 20px 20px;
+}
+
+#pokejugador{
+    background-color: none;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-left: 40px;
+}
+
+#imgpkjugador{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin-left: 12%;   
+}
+
+#nombrepkjugadorcont{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -20px;
+}
+
+#nombrepkjugador{
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#litsaludjugador{
+    color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 80px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#barraSaludJugadorCont{
+    width: 200px;
+    height: 15px;
+    background-color: rgb(73, 73, 73);
+    position: absolute;
+    margin-top: 53px;
+    margin-left: 350px;
+}
+
+#barraSaludJugador{
+    width: 200px;
+    height: 15px;
+    background-color: greenyellow;
+    transition: width 0.3s ease-in-out;
+}
+
+#cajadeataques{
+    background-color: none;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    margin-left: 340px;
+    margin-top: -50px;
+    padding: 0 20px;  
+}
+
+.botonataque{  
+    position: relative;
+    width: 97px;
+    margin: 0 0 3px 0;  
+}
+
+#cajaBotonObjetos{
+    width: 100px;
+    position: absolute;
+    left: 78.5%;
+    bottom: 8.2%;
+}
+
+#botonObjetos{
+    width: 100px;
+    height: 45px;
+}
+
+
+/* ---------------------------------------------------------------------------------------- */
+
+#contmensajes{
+    margin: 10px auto;
+    width: 750px;
+    height: 180px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 8px 8px 15px #0c313f ;
+    align-content: center;
+    text-align: center;
+    cursor: pointer;
+   
+}
+
+#bordeMensajes{
+    display: inline-block;
+    margin: auto;
+    background-color: #ffffff;
+    width: 700px ;
+    height: 130px;
+    border-radius: 10px;
+    border: solid 3.5px rgb(104, 86, 175);
+}
+
+/* #contmensajes2{
+    display: inline-block;
+    margin: 20px 0 20px 0;
+    width: 660px;
+    height: 90px;
+    background-color: #a34f43;
+    align-content: center;
+    text-align: center;
+} */
+
+#mensajes{ 
+    display: inline-block;
+    margin: 15px 0 15px 0;
+    background-color: #ffffff;
+    height: 100px;
+    width: 640px;
+    font-family: "Roboto";
+    font-size: 25px;
+    text-align: left;
+}
+
+#botonStatus{
+    font-size: 18px;
+    display: inline-block;
+}
+
+#contStatus{
+    text-align: center;
+    margin: 9px;
+}
+
+/* --------------- */
+
+#contVentanaObjetos{
+width: 300px;
+height: 370px;
+background-color: #ffffff;
+position: absolute;
+bottom: 80px;
+left: 225px;
+border: 3.5px solid rgb(104, 86, 175);
+border-radius: 15px;
+box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.603) ;
+text-align: center;
+align-content: center;
+justify-content: center;
+display:none;
+box-sizing: border-box;
+z-index: 1000000;
+}
+
+#tituloObjetos{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto';
+    margin: -5px 0 6px 0;
+}
+
+#contListaObjetos{
+    width: 90%;
+    height: 75%;
+    margin: 0 5% 10px 5%;
+    border: 3.5px solid rgb(104, 86, 175);
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgb(104, 86, 175);
+}
+
+.contObjeto{
+    width: 100%;
+    background-color: none;
+    padding: 7px 0 7px 0;
+    font-family: 'Roboto';
+    font-weight:500;
+    color: white;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+
+.contObjeto:hover{
+    cursor: pointer;
+    background-color: #030a1b;
+}
