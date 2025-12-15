@@ -1,0 +1,19 @@
+-Funcionalidad de ventaja y desventaja en ataques del rival. X
+-Agregar un ataque adicional y un tipo adicional para el jugador y el rival.X
+-Funcionalidad de velocidad del Rival mayor. X
+-Agregar el último ataque adicional y un tipo adicional. X
+-Agregar Boosts o De Boosts de ataque o defensa, con un movimiento para cada uno de los boosts.X
+-Agregar boost de velocidad. X
+-Agregar Posibilidad de Ataque crítico. X
+-Agregar Anti boost de ataque, defensa o velocidad. X
+-Funcionalidad de uso de objetos. X
+
+--------------------------------------------------------------------
+
+
+-Agregar estadísticas de Ataque especial y defensa Especial. (opcional)
+-Agregar Evasión y movimientos de boost de Evasion. (opcional)
+
+
+
+

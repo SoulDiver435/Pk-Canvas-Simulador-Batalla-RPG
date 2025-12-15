@@ -1,0 +1,3 @@
+-Disponible la funcionalidad de utilizar Objetos.
+-Añadida una ventana para la lista de Objetos.
+-Disponible el objeto Poción.
